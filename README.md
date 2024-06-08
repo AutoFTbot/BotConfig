@@ -13,3 +13,6 @@ git clone https://github.com/AutoFTbot/BotConfig.git
 cd repo
 python3 config.py
 ```
+Jangan Lupa Install module
+```telethon==1.24.0
+```
