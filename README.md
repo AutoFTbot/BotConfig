@@ -11,3 +11,5 @@ Bot Berkas adalah bot Telegram sederhana yang memungkinkan pengguna untuk mengun
 ```bash
 git clone https://github.com/AutoFTbot/BotConfig.git
 cd repo
+python3 config.py
+```
