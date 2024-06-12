@@ -3,11 +3,11 @@ import asyncio
 import sqlite3
 import os
 
-api_id = '15995433'
-api_hash = '6fc6fd0c77e5494c14724442abe46e5e'
-bot_token = '7472225187:AAGfIphvCT8BNX68WROq4JklZUlyPJKw1ZA' #GANTI DENGAN TOKEN BOT KALIAN
+hencet = '15995433'
+itil = '6fc6fd0c77e5494c14724442abe46e5e'
+toket = '7472225187:AAGfIphvCT8BNX68WROq4JklZUlyPJKw1ZA' #GANTI DENGA TONE BOT KALIAN
 
-bot = TelegramClient('bot', api_id, api_hash).start(bot_token=bot_token)
+bot = TelegramClient('bot', hencet, itil).start(toket=toket)
 
 os.makedirs('agin', exist_ok=True)
 
